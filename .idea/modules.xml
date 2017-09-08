@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/opecv_std.iml" filepath="$PROJECT_DIR$/.idea/opecv_std.iml" />
+      <module fileurl="file://C:\Users\20103498\PycharmProjects\opencv_std\.idea\opencv_std.iml" filepath="C:\Users\20103498\PycharmProjects\opencv_std\.idea\opencv_std.iml" />
+    </modules>
+  </component>
+</project>
